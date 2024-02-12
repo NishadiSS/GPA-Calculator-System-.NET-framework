@@ -1,0 +1,21 @@
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.AssemblyReference.cache
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.GenerateResource.cache
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CoreCompileInputs.cache
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+E:\Practical code\visual studio\gpa\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.AssemblyReference.cache
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.GenerateResource.cache
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.csproj.CoreCompileInputs.cache
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+D:\git_projects\Visual-Studio-Projects_.NET framework\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
