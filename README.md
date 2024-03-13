@@ -1,6 +1,9 @@
 # GPA Calculator GUI Application (.NET Framework)
 This repository houses the source code for a GPA Calculator GUI application developed using the .NET Framework. The application provides an intuitive and user-friendly interface for calculating Grade Point Averages (GPA) based on user-inputted course grades and credits.
 
+# Final GUI Output image
+![image](https://github.com/NishadiSS/GPA-Calculator-System-.NET-framework/assets/119886016/2c1a50cb-9418-48c1-af7c-76a8a44bf7b9)
+
 # ⭐Features
 ## 1. User-Friendly Interface
 The application boasts a clean and user-friendly graphical interface, allowing users to easily input their course grades and credits. The design aims to enhance the user experience and make GPA calculation a straightforward process.
@@ -31,5 +34,4 @@ Contributions are welcome! If you encounter issues, have feature requests, or wa
 # ⭐License
 This project is licensed under the MIT License
 
-# Final GUI Output image
-![image](https://github.com/NishadiSS/GPA-Calculator-System-.NET-framework/assets/119886016/2c1a50cb-9418-48c1-af7c-76a8a44bf7b9)
+
